@@ -1,5 +1,6 @@
 logs
 out
+*.idea
 *.log
 *.pid
 *.seed
